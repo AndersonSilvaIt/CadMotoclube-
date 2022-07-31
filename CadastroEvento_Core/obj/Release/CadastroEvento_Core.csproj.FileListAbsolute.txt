@@ -1,0 +1,37 @@
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\CadastroEvento_Core\bin\Release\CadastroEvento_Core.dll.config
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\CadastroEvento_Core\bin\Release\CadastroEvento_Core.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\CadastroEvento_Core\bin\Release\CadastroEvento_Core.pdb
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\CadastroEvento_Core\bin\Release\EntityFramework.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\CadastroEvento_Core\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\CadastroEvento_Core\bin\Release\EntityFramework.xml
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\CadastroEvento_Core\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\CadastroEvento_Core\obj\Release\CadastroEvento_Core.csprojResolveAssemblyReference.cache
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\CadastroEvento_Core\obj\Release\CadastroEvento_Core.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\CadastroEvento_Core\obj\Release\CadastroEvento_Core.pdb
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\CadastroEvento_Core\bin\Release\CadastroEvento_Core.dll.config
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\CadastroEvento_Core\bin\Release\CadastroEvento_Core.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\CadastroEvento_Core\bin\Release\CadastroEvento_Core.pdb
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\CadastroEvento_Core\bin\Release\EntityFramework.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\CadastroEvento_Core\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\CadastroEvento_Core\bin\Release\EntityFramework.xml
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\CadastroEvento_Core\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\CadastroEvento_Core\obj\Release\CadastroEvento_Core.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\CadastroEvento_Core\obj\Release\CadastroEvento_Core.pdb
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\CadastroEvento_Core\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\CadastroEvento_Core\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\CadastroEvento_Core\bin\Release\EntityFramework.SqlServerCompact.xml
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\CadastroEvento_Core\bin\Release\CadastroEvento_Core.dll.config
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\CadastroEvento_Core\bin\Release\CadastroEvento_Core.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\CadastroEvento_Core\bin\Release\CadastroEvento_Core.pdb
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\CadastroEvento_Core\bin\Release\EntityFramework.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\CadastroEvento_Core\bin\Release\EntityFramework.SqlServer.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\CadastroEvento_Core\bin\Release\EntityFramework.SqlServerCompact.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\CadastroEvento_Core\bin\Release\System.Data.SqlServerCe.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\CadastroEvento_Core\bin\Release\EntityFramework.xml
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\CadastroEvento_Core\bin\Release\EntityFramework.SqlServer.xml
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\CadastroEvento_Core\bin\Release\EntityFramework.SqlServerCompact.xml
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\CadastroEvento_Core\obj\Release\CadastroEvento_Core.csproj.AssemblyReference.cache
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\CadastroEvento_Core\obj\Release\CadastroEvento_Core.csproj.CoreCompileInputs.cache
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\CadastroEvento_Core\obj\Release\CadastroEvento_Core.csproj.CopyComplete
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\CadastroEvento_Core\obj\Release\CadastroEvento_Core.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\CadastroEvento_Core\obj\Release\CadastroEvento_Core.pdb

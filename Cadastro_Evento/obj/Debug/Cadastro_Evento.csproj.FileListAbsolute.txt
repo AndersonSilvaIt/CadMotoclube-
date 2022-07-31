@@ -1,0 +1,142 @@
+C:\Users\a.silva\Desktop\Cadastro_Evento\Cadastro_Evento\Cadastro_Evento\bin\Debug\Cadastro_Evento.exe.config
+C:\Users\a.silva\Desktop\Cadastro_Evento\Cadastro_Evento\Cadastro_Evento\bin\Debug\Cadastro_Evento.exe
+C:\Users\a.silva\Desktop\Cadastro_Evento\Cadastro_Evento\Cadastro_Evento\bin\Debug\Cadastro_Evento.pdb
+C:\Users\a.silva\Desktop\Cadastro_Evento\Cadastro_Evento\Cadastro_Evento\bin\Debug\CadastroEvento_Core.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento\Cadastro_Evento\Cadastro_Evento\bin\Debug\EntityFramework.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento\Cadastro_Evento\Cadastro_Evento\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento\Cadastro_Evento\Cadastro_Evento\bin\Debug\CadastroEvento_Core.pdb
+C:\Users\a.silva\Desktop\Cadastro_Evento\Cadastro_Evento\Cadastro_Evento\bin\Debug\EntityFramework.xml
+C:\Users\a.silva\Desktop\Cadastro_Evento\Cadastro_Evento\Cadastro_Evento\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\a.silva\Desktop\Cadastro_Evento\Cadastro_Evento\Cadastro_Evento\obj\Debug\Cadastro_Evento.csprojResolveAssemblyReference.cache
+C:\Users\a.silva\Desktop\Cadastro_Evento\Cadastro_Evento\Cadastro_Evento\obj\Debug\Cadastro_Evento.GerarEvento.resources
+C:\Users\a.silva\Desktop\Cadastro_Evento\Cadastro_Evento\Cadastro_Evento\obj\Debug\Cadastro_Evento.Properties.Resources.resources
+C:\Users\a.silva\Desktop\Cadastro_Evento\Cadastro_Evento\Cadastro_Evento\obj\Debug\Cadastro_Evento.csproj.GenerateResource.Cache
+C:\Users\a.silva\Desktop\Cadastro_Evento\Cadastro_Evento\Cadastro_Evento\obj\Debug\Cadastro_Evento.exe
+C:\Users\a.silva\Desktop\Cadastro_Evento\Cadastro_Evento\Cadastro_Evento\obj\Debug\Cadastro_Evento.pdb
+C:\Users\Bruce\Desktop\Cadastro_Evento\Cadastro_Evento\bin\Debug\Cadastro_Evento.exe.config
+C:\Users\Bruce\Desktop\Cadastro_Evento\Cadastro_Evento\obj\Debug\Cadastro_Evento.exe
+C:\Users\Bruce\Desktop\Cadastro_Evento\Cadastro_Evento\obj\Debug\Cadastro_Evento.pdb
+C:\Users\Bruce\Desktop\Cadastro_Evento\Cadastro_Evento\obj\Debug\Cadastro_Evento.csprojResolveAssemblyReference.cache
+C:\Users\Bruce\Desktop\Cadastro_Evento\Cadastro_Evento\obj\Debug\Cadastro_Evento.FormEvento.resources
+C:\Users\Bruce\Desktop\Cadastro_Evento\Cadastro_Evento\obj\Debug\Cadastro_Evento.GerarEvento.resources
+C:\Users\Bruce\Desktop\Cadastro_Evento\Cadastro_Evento\obj\Debug\Cadastro_Evento.csproj.GenerateResource.Cache
+C:\Users\Bruce\Desktop\Cadastro_Evento\Cadastro_Evento\obj\Debug\Cadastro_Evento.Properties.Resources.resources
+C:\Users\Bruce\Desktop\Cadastro_Evento\Cadastro_Evento\bin\Debug\Cadastro_Evento.exe
+C:\Users\Bruce\Desktop\Cadastro_Evento\Cadastro_Evento\bin\Debug\Cadastro_Evento.pdb
+C:\Users\Bruce\Desktop\Cadastro_Evento\Cadastro_Evento\bin\Debug\CadastroEvento_Core.dll
+C:\Users\Bruce\Desktop\Cadastro_Evento\Cadastro_Evento\bin\Debug\EntityFramework.dll
+C:\Users\Bruce\Desktop\Cadastro_Evento\Cadastro_Evento\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bruce\Desktop\Cadastro_Evento\Cadastro_Evento\bin\Debug\CadastroEvento_Core.pdb
+C:\Users\Bruce\Desktop\Cadastro_Evento\Cadastro_Evento\bin\Debug\EntityFramework.xml
+C:\Users\Bruce\Desktop\Cadastro_Evento\Cadastro_Evento\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bruce\Desktop\Cadastro_Evento\Cadastro_Evento\obj\Debug\Cadastro_Evento.FormInitial.resources
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\Cadastro_Evento\bin\Debug\Cadastro_Evento.exe.config
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\Cadastro_Evento\obj\Debug\Cadastro_Evento.exe
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\Cadastro_Evento\obj\Debug\Cadastro_Evento.pdb
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\Cadastro_Evento\bin\Debug\Cadastro_Evento.exe
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\Cadastro_Evento\bin\Debug\Cadastro_Evento.pdb
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\Cadastro_Evento\bin\Debug\CadastroEvento_Core.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\Cadastro_Evento\bin\Debug\EntityFramework.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\Cadastro_Evento\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\Cadastro_Evento\bin\Debug\CadastroEvento_Core.pdb
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\Cadastro_Evento\bin\Debug\EntityFramework.xml
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\Cadastro_Evento\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\Cadastro_Evento\obj\Debug\Cadastro_Evento.csprojResolveAssemblyReference.cache
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\Cadastro_Evento\obj\Debug\Cadastro_Evento.FormEvento.resources
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\Cadastro_Evento\obj\Debug\Cadastro_Evento.FormInitial.resources
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\Cadastro_Evento\obj\Debug\Cadastro_Evento.GerarEvento.resources
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\Cadastro_Evento\obj\Debug\Cadastro_Evento.Properties.Resources.resources
+C:\Users\a.silva\Desktop\Cadastro_Evento_02\Cadastro_Evento\obj\Debug\Cadastro_Evento.csproj.GenerateResource.Cache
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\Cadastro_Evento.exe.config
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\obj\Debug\Cadastro_Evento.exe
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\obj\Debug\Cadastro_Evento.pdb
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\Cadastro_Evento.exe
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\Cadastro_Evento.pdb
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\CadastroEvento_Core.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\EntityFramework.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\CadastroEvento_Core.pdb
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\EntityFramework.xml
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\obj\Debug\Cadastro_Evento.FormEvento.resources
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\obj\Debug\Cadastro_Evento.FormInitial.resources
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\obj\Debug\Cadastro_Evento.GerarEvento.resources
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\obj\Debug\Cadastro_Evento.Properties.Resources.resources
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\obj\Debug\Cadastro_Evento.csproj.GenerateResource.Cache
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\obj\Debug\Cadastro_Evento.csprojResolveAssemblyReference.cache
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\AppData\DBCadModelo.sdf
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\sqlceca40.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\sqlcecompact40.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\sqlceer40BR.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\sqlceer40EN.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\sqlceme40.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\sqlceoledb40.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\sqlceqp40.dll
+C:\Users\a.silva\Desktop\Cadastro_Evento_03\Cadastro_Evento\bin\Debug\sqlcese40.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\AppData\DBCadModelo.sdf
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\sqlceca40.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\sqlcecompact40.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\sqlceer40BR.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\sqlceer40EN.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\sqlceme40.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\sqlceoledb40.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\sqlceqp40.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\sqlcese40.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\Cadastro_Evento.exe.config
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\Cadastro_Evento.exe
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\Cadastro_Evento.pdb
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\CadastroEvento_Core.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\EntityFramework.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\EntityFramework.SqlServer.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\System.Data.SqlServerCe.dll
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\CadastroEvento_Core.pdb
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\CadastroEvento_Core.dll.config
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\EntityFramework.xml
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\EntityFramework.SqlServer.xml
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\obj\Debug\Cadastro_Evento.csproj.AssemblyReference.cache
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\obj\Debug\Cadastro_Evento.FormEvento.resources
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\obj\Debug\Cadastro_Evento.FormInitial.resources
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\obj\Debug\Cadastro_Evento.GerarEvento.resources
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\obj\Debug\Cadastro_Evento.Properties.Resources.resources
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\obj\Debug\Cadastro_Evento.csproj.GenerateResource.cache
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\obj\Debug\Cadastro_Evento.csproj.CoreCompileInputs.cache
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\obj\Debug\Cadastro_Evento.csproj.CopyComplete
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\obj\Debug\Cadastro_Evento.exe
+D:\Anderson\Estudos C#\Cadastro_Evento_05-20220728T142146Z-001\Cadastro_Evento_05\Cadastro_Evento\obj\Debug\Cadastro_Evento.pdb
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\AppData\DBCadModelo.sdf
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\sqlceca40.dll
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\sqlcecompact40.dll
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\sqlceer40BR.dll
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\sqlceer40EN.dll
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\sqlceme40.dll
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\sqlceoledb40.dll
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\sqlceqp40.dll
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\sqlcese40.dll
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\Cadastro_Evento.exe.config
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\Cadastro_Evento.exe
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\Cadastro_Evento.pdb
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\CadastroEvento_Core.dll
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\EntityFramework.dll
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\EntityFramework.SqlServer.dll
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\System.Data.SqlServerCe.dll
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\CadastroEvento_Core.pdb
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\CadastroEvento_Core.dll.config
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\EntityFramework.xml
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\EntityFramework.SqlServer.xml
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\obj\Debug\Cadastro_Evento.csproj.AssemblyReference.cache
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\obj\Debug\Cadastro_Evento.FormEvento.resources
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\obj\Debug\Cadastro_Evento.FormInitial.resources
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\obj\Debug\Cadastro_Evento.GerarEvento.resources
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\obj\Debug\Cadastro_Evento.Properties.Resources.resources
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\obj\Debug\Cadastro_Evento.csproj.GenerateResource.cache
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\obj\Debug\Cadastro_Evento.csproj.CoreCompileInputs.cache
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\obj\Debug\Cadastro_Evento.csproj.CopyComplete
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\obj\Debug\Cadastro_Evento.exe
+D:\Anderson\Estudos C#\CadMotoclube-\Cadastro_Evento\obj\Debug\Cadastro_Evento.pdb
